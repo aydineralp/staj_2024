@@ -1,7 +1,7 @@
 ---
 name: Staj Başvuru Formu
 about: 2024 Staj başvuru formatı
-title: AD-SOYAD [ALAN][STAJ YERİ][STAJ TİPİ][STAJ SÜRESİ]
+title: VEYSEL AYDIN- ERALP [game, mobile][uzaktan, yüzyüze][zorunlu][4 hafta]
 labels: ''
 assignees: ''
 
@@ -9,11 +9,11 @@ assignees: ''
 
 ### Kişisel:
 
-- **Ad Soyad:**
-- **Okul:**
-- **Sınıf:**
-- **CV:** [Google Drive Linki veya pdf linki](#)
-- **Sigorta Okul Karşılıyor** (Evet/Hayır): 
+- **Ad Soyad: Veysel Aydın Eralp**
+- **Okul: İzmir Bakırçay Üniversitesi**
+- **Sınıf: 3.Sınıf **
+- **CV:** https://drive.google.com/file/d/1PZ_ZyeYDO5WwN4N0zG6dVphNnNhBRAiu/view?usp=sharing
+- **Sigorta Okul Karşılıyor** : Evet
 
 ### Kendin Hakkında (kendini anlatmak istersen):
 
@@ -21,4 +21,4 @@ assignees: ''
 
 ### Teknik (Örnek projeler, linkleri ve detayları)
 
-- **İlgilendiklerim (diller, frameworkler vs):**
+- **İlgilendiklerim (diller, frameworkler vs):**   C#, C, Unity, Frontend,Java, Flutter, Mobil
